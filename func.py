@@ -42,14 +42,14 @@ def buscar_dato(archivo_json, clave, valor_buscado):
         claves = resultados[0].keys()
         
         print("\nResultados encontrados:")
-        print("-" * 40)  
+        print("-" * 80)  
         print(" | ".join(f"{clave: <15}" for clave in claves))  
-        print("-" * 40)  
+        print("-" * 80)  
         
        
         for resultado in resultados:
             print(" | ".join(f"{str(valor): <15}" for valor in resultado.values()))  
-        print("-" * 40)  
+        print("-" * 80)  
     else:
         print("No se encontraron resultados.")
 
