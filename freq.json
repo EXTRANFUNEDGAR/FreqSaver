@@ -1,7 +1,17 @@
 [
     {
-        "nombre": "Juan",
-        "edad": 30
+        "freq": "590.000",
+        "modulation": "AM",
+        "tag": "",
+        "description": "prueba",
+        "hour": "20:29"
+    },
+    {
+        "freq": "590.000",
+        "modulation": "AM",
+        "tag": "",
+        "description": "prueba",
+        "hour": "20:29"
     },
     {
         "freq": "590.000",
@@ -16,5 +26,33 @@
         "tag": "",
         "description": "prueba",
         "hour": "20:29"
+    },
+    {
+        "freq": "590.000",
+        "modulation": "AM",
+        "tag": "",
+        "description": "prueba",
+        "hour": "20:29"
+    },
+    {
+        "freq": "97.300",
+        "modulation": "FM",
+        "tag": "ADO",
+        "description": "",
+        "hour": "2024-09-26 21:53:13"
+    },
+    {
+        "freq": "97.000",
+        "modulation": "FM",
+        "tag": "imagen",
+        "description": "",
+        "hour": "2024-09-26 22:22:38"
+    },
+    {
+        "freq": "7.650.000",
+        "modulation": "AM",
+        "tag": "Noticias",
+        "description": "ingles",
+        "hour": "2024-09-26 22:48:02"
     }
 ]
