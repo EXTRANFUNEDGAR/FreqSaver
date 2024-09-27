@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Juan",
+        "edad": 30
+    },
+    {
+        "freq": "590.000",
+        "modulation": "AM",
+        "tag": "",
+        "description": "prueba",
+        "hour": "20:29"
+    },
+    {
+        "freq": "590.000",
+        "modulation": "AM",
+        "tag": "",
+        "description": "prueba",
+        "hour": "20:29"
+    }
+]
